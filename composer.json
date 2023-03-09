@@ -1,0 +1,19 @@
+{
+    "name": "sf/auth",
+    "description": "SskillFactory PHP Auth",
+    "type": "project",
+    "require": {
+        "gabordemooij/redbean": "dev-master",
+        "monolog/monolog": "2.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "App\\": "app\\"
+    },
+    "authors": [
+        {
+            "name": "ms"
+        }
+    ],
+    "minimum-stability": "dev"
+}
